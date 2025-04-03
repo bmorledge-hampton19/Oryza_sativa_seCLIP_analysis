@@ -1,0 +1,8 @@
+Data derived from https://rice.uga.edu/download_osa1r7.shtml
+
+osa1_r7.locus_brief_info.txt.gz -> all.locus_brief_info.7.0.tsv
+osa1_r7.all_models.gff3.gz -> Osativa7_exons.bed
+
+To complete the analysis in this repository, you will also need the Osativa7 genome fasta file
+which is not included due to size constraints but can also be found at
+https://rice.uga.edu/download_osa1r7.shtml and is titled "osa1_r7.asm.fa.gz"
